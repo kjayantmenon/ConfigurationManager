@@ -1,0 +1,1 @@
+c:\usp\tests\ConfigurationManagementService\ConfigurationManagementService\obj\x64\Debug\ConfigurationManagementService.sfprojResolveAssemblyReference.cache
